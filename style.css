@@ -272,6 +272,7 @@ aside {
     font-size: 1.5rem;
     margin: 1rem 0 1rem 0;
 }
+
 .aside-top-content,
 .aside-bottom-content {
     display: flex;
@@ -381,9 +382,3 @@ img {
 img:hover {
     filter: brightness(93%);
 }
-
-/* removes search cancel button
-
-#search::-webkit-search-cancel-button {
-    display: none;
-} */
