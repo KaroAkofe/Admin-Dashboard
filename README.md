@@ -1,3 +1,3 @@
-# Dashboard
+# Admin Dashboard
 
-The odin project [dashboard project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
+The odin project [Admin Dashboard project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
